@@ -1,0 +1,8 @@
+dni	nombre	paterno	materno	ubigeo	cargo
+45350382	jorge	salcedo	frnaco	140101	5
+45350382	jorge	salcedo	frnaco	140102	5
+45350382	jorge	salcedo	frnaco	140103	5
+87654321	juan	perez	sandoval	140101	2
+87654321	juan	perez	sandoval	140102	2
+32132132	luis	pedraza	luna	140102	3
+99999999	juan	luna	galvez	140101	1

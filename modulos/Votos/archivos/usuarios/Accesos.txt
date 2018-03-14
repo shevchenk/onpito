@@ -1,0 +1,18 @@
+Usuario Cliente 	:  	00000001	Daniel
+Usuario Técnico 	:  	00000002
+Usuario Call Cener 	:  	00000003
+Usuario Técnico Jefe	:  	00000004
+Usuario Logística	:	00000005
+Usuario Calidad		:	00000008
+Usuario Administrador 	:	45350382
+
+
+
+Inicia:
+
+Call Center
+
+
+
+Existe Comercial quien realiza la cotización
+pero como le pasan a call center el(la) tiene el cargo

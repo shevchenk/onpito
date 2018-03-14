@@ -1,0 +1,5 @@
+dni	nombre	paterno	materno	ubigeo	cargo	pasword
+45350382	Jorge Luis	salcedo	franco	140101	5	1234567
+45350382	Jorge Luis	salcedo	franco	140102	5	1234567
+45350382	Jorge Luis	salcedo	franco	140103	5	1234567
+12345678	juan	perez	sandoval	140101	2	1234567
